@@ -1,9 +1,9 @@
 #Stuff the engine comes with
-/engine-icons
+/engine-icons/
 
 #Menu Images
-/menu
+/menu/
 
 #Sprite Sheets
-/sprites
-/powerups
+/sprites/
+/powerups/
